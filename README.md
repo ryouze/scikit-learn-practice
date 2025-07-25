@@ -6,6 +6,8 @@ scikit-learn-practice is a refresher of machine learning concepts and algorithms
 
 I'd normally create a `pyproject.toml`, automatic tests and a CI/CD pipeline, but this is just a practice repository, so let's keep it simple.
 
+Requirements: Python 3.8 (the tutorial requires `scikit-learn==0.23.0` specifically, which is not compatible with Python 3.9+).
+
 ```sh
 https://github.com/ryouze/scikit-learn-practice.git
 ```
