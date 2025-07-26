@@ -1,6 +1,6 @@
 # scikit-learn-practice
 
-scikit-learn-practice is a quick refresher on machine learning concepts and algorithms, following the [freeCodeCamp](https://www.youtube.com/watch?v=0B5eIE_1vpU) course.
+scikit-learn-practice is a collection of notebooks I created while refreshing my knowledge of machine learning concepts and algorithms, following the [freeCodeCamp](https://www.youtube.com/watch?v=0B5eIE_1vpU) course.
 
 
 # Installation
